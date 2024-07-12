@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Juan and I'm a Data Analysts Accountant, from Argentina.</p>
+<p align="left">My name is Juan and I'm a Data Analyst Accountant, from Argentina.</p>
 
 ###
 
@@ -34,6 +34,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="apple logo"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/12173291644">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=12173291644&count=5" alt="Spotify recently played"  />
+  </a>
 </div>
 
 ###
