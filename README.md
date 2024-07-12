@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Juan and I'm a Data Analyst Accountant, from Argentina.</p>
+<p align="left">My name is Juan and I'm a Data Analysts Accountant, from Argentina.</p>
 
 ###
 
